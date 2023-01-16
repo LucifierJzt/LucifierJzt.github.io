@@ -24,10 +24,10 @@ title: Troye's Blog                          # the main title
 tagline: 不要温和的走进那个良夜   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  不要温和的走进那个良夜
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://lucifierjzt.github.io'
 
 github:
   username: LucifierJzt             # change to your github username
