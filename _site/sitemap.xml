@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/LucifierJzt.github.io/categories/</loc>
-<lastmod>2023-01-16T17:45:49+08:00</lastmod>
+<loc>http://localhost:4000/lucifierjzt.github.io/categories/</loc>
+<lastmod>2023-01-16T19:22:24+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/LucifierJzt.github.io/tags/</loc>
-<lastmod>2023-01-16T17:45:49+08:00</lastmod>
+<loc>http://localhost:4000/lucifierjzt.github.io/tags/</loc>
+<lastmod>2023-01-16T19:22:24+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/LucifierJzt.github.io/archives/</loc>
-<lastmod>2023-01-16T17:45:49+08:00</lastmod>
+<loc>http://localhost:4000/lucifierjzt.github.io/archives/</loc>
+<lastmod>2023-01-16T19:22:24+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/LucifierJzt.github.io/about/</loc>
-<lastmod>2023-01-16T17:45:49+08:00</lastmod>
+<loc>http://localhost:4000/lucifierjzt.github.io/about/</loc>
+<lastmod>2023-01-16T19:22:24+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/LucifierJzt.github.io/</loc>
+<loc>http://localhost:4000/lucifierjzt.github.io/</loc>
 </url>
 </urlset>

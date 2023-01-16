@@ -1,6 +1,6 @@
-self.importScripts('/LucifierJzt.github.io/assets/js/data/swcache.js');
+self.importScripts('/lucifierjzt.github.io/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20230116.174552';
+const cacheName = 'chirpy-20230116.192225';
 
 function verifyDomain(url) {
     for (const domain of allowedDomains) {
