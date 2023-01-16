@@ -9,12 +9,11 @@
 !.stylelintrc.json
 
 # bundler cache
-_site
 vendor
 
 # rubygem
 *.gem
-
+Gemfile
 # npm dependencies
 node_modules
 package-lock.json
