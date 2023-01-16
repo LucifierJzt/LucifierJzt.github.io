@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'http://cdn.jinzhentao.cn/tubiao.jpg'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'http://cdn.jinzhentao.cn/tubiao.jpg'
+avatar: /assets/img/sample/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
